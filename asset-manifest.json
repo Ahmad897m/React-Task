@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/company-React/static/css/main.d1ad0200.css",
+    "main.js": "/company-React/static/js/main.470b26e6.js",
+    "static/media/projects (5).jpg": "/company-React/static/media/projects (5).f56f4d878adc97cab3a2.jpg",
+    "static/media/projects (4).jpg": "/company-React/static/media/projects (4).72ea8ca01cf76f4f5ce6.jpg",
+    "static/media/projects (2).jpg": "/company-React/static/media/projects (2).c430ef85385d7c4ef339.jpg",
+    "static/media/projects (6).jpg": "/company-React/static/media/projects (6).b17918785042d0e6e6c5.jpg",
+    "static/media/projects (1).jpg": "/company-React/static/media/projects (1).aac345c9b63d15c34d73.jpg",
+    "static/media/crop.png": "/company-React/static/media/crop.8793bd3ace88d19c256d.png",
+    "static/media/globe_900782.png": "/company-React/static/media/globe_900782.a47c35aa7f8ee28b7281.png",
+    "static/media/diamond_636600.png": "/company-React/static/media/diamond_636600.1f048477c61d83ed0fd1.png",
+    "static/media/juice_11521832.png": "/company-React/static/media/juice_11521832.d611af921f778bd94e96.png",
+    "static/media/team (5).png": "/company-React/static/media/team (5).a88e72eac926e5f185c6.png",
+    "static/media/projects (3).png": "/company-React/static/media/projects (3).f3229a1aa5e14eec9cb8.png",
+    "static/media/antennae.png": "/company-React/static/media/antennae.e2b1c17a55af158a84ea.png",
+    "static/media/notes_768818.png": "/company-React/static/media/notes_768818.5720710a33db980f2b86.png",
+    "static/media/team (1).png": "/company-React/static/media/team (1).fbeebe4a0b16e526b72c.png",
+    "static/media/team (3).png": "/company-React/static/media/team (3).b0a69e80b1a06a2e3788.png",
+    "static/media/team (4).png": "/company-React/static/media/team (4).ae65f3132a98b187319e.png",
+    "static/media/team (2).png": "/company-React/static/media/team (2).9507dc47356ffd70cebe.png",
+    "static/media/pencil_4277132.png": "/company-React/static/media/pencil_4277132.c36fac70096571cebba1.png",
+    "index.html": "/company-React/index.html",
+    "main.d1ad0200.css.map": "/company-React/static/css/main.d1ad0200.css.map",
+    "main.470b26e6.js.map": "/company-React/static/js/main.470b26e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1ad0200.css",
+    "static/js/main.470b26e6.js"
+  ]
+}
